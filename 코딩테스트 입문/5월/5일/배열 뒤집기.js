@@ -1,4 +1,3 @@
 function solution(num_list) {
-    let answer = num_list.reverse();
-    return answer;
+    return num_list.reverse();
 }
